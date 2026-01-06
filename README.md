@@ -1,2 +1,6 @@
-# mlops
-tester repository i vores linux direcotry &lt;3 (til mlops kursus)
+# GOALS
+
+- Lean Git
+- Learn MLOps
+
+# hell yeah!
